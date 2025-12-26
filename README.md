@@ -20,13 +20,14 @@ To contact, email: jeswin.ambati@gmail.com
 
 
 
+
 ## Screenshots of the project
 
 ### Homepage
 ![restro-mern](https://github.com/JeswinSaidhu/restaurant-MERN/assets/81647613/11e02ac5-e338-4c0a-81bc-85f13b831b3c)
 
 ### Hero
-![Hero](https://github.com/user-attachments/assets/eb9dfd54-ebaf-48d8-8351-87ea92a933e7)
+![Hero](https://github.com/user-attachments/assets/5f0d8c2d-3c01-470b-ae90-b3c17ad2d8eb)
 
 ### After successful reservation
 ![success](https://github.com/JeswinSaidhu/restaurant-MERN/assets/81647613/d20317b8-51da-486a-9885-ccfaf8d9bcd9)
